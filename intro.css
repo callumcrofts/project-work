@@ -1,0 +1,121 @@
+.intro {
+  background-image: url("https://cdn.vox-cdn.com/thumbor/u_e1etoVVO_ARevnTz7FWDBVHng=/0x0:2048x1156/920x613/filters:focal(299x94:625x420):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/49587899/15746767658_8338d05a3e_k.0.jpg");
+  height: 400px;
+}
+
+body {
+  margin:0px;
+}
+
+.intro-container {
+  width: 70%;
+  margin: auto;
+  background-color: rgb(22, 21, 21, 0.5);
+  color: white;
+  text-align: center;
+  height: 400px;
+  background-size: cover;
+}
+
+.main-text {
+  border-style: inset;
+  border-radius: 25px 50px;
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  background-color: yellow;
+  color: black;
+  padding-top: 100px;
+  padding-right: 200px;
+
+}
+
+.second-container {
+  background-color: brown;
+  width: 200px;
+  height: 200px;
+  border-radius: 10px 30px 50% 70%;
+  border-color: blue;
+  margin: auto;
+  padding: 100px 100px 100px 10px;
+  border-style: solid;
+
+}
+
+.top {
+  background-color: white;
+  border: 10px;
+  border-color: black;
+  border-style: solid;
+  height: 200px;
+  width: 200px;
+  margin-left: 15px;
+
+}
+
+.middle {
+  background-color: red;
+  border: 20px;
+  border-color: black;
+  border-style: solid;
+  height: 200px;
+  width: 200px;
+  margin-left: 235px;
+}
+
+.bottom {
+  background-color: blue;
+  border: 30px;
+  border-color: black;
+  border-style: solid;
+  height: 200px;
+  width: 200px;
+  margin-left: 475px;
+}
+
+
+.div-container {
+  background-color: white;
+  border: 30px;
+  border-color: black;
+  height: auto;
+  width: 200px;
+  display: grid;
+}
+
+.one-div {
+  background-color: pink;
+  border: 30px;
+  border-color: black;
+  height: 300px;
+  width: 700px;
+  padding: 20px;
+  font-size: 50px;
+  font-style: italic;
+  font-weight: 500;
+}
+
+.two-div {
+  background-color: orange;
+  border: 30px;
+  border-color: black;
+  height: 300px;
+  width: 700px;
+  padding: 20px;
+  font-size: 50px;
+  font-style: italic;
+  font-weight: 500;
+
+}
+
+.three-div {
+  background-color: yellow;
+  border: 30px;
+  border-color: black;
+  height: 300px;
+  width: 700px;
+  padding: 20px;
+  font-size: 50px;
+  font-style: italic;
+  font-weight: 500;
+}

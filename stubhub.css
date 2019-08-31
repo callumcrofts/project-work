@@ -1,0 +1,117 @@
+.header {
+  text-align: left;
+  font-family: monospace, Verdana, Arial, Sans-serif;
+  font-style: italic;
+  background-color: #ECDB54;
+  font-size: 30px;
+  position: sticky;
+  top: 0;
+  border-radius: 20px;
+
+}
+
+
+.middle-container {
+  background-color: #F5D6C6;
+  text-align: center;
+  font-family: Verdana, Arial, Sans-serif;
+  margin:10px;
+  border: solid #8D9440;
+  padding: 10px;
+
+}
+
+.menu {
+  background-color: #DBB1CD;
+  height: auto;
+  width: 120px;
+  padding: 15px;
+  border-radius: 25px;
+  border-color: #00A591;
+  border: solid #BFD641;
+  position: fixed;
+  float: right;
+  right: 0;
+  font-family: Verdana, Arial, Sans-serif;
+  text-decoration: none;
+
+}
+
+
+
+h2 {
+  color: #615550;
+  text-align: left;
+  font-size: 55px;
+  font-style: italic;
+  text-decoration: line-through;
+
+}
+
+p {
+  text-align: right;
+  font-size: 35px;
+  font-style: italic;
+  color: white;
+  font-weight:600;
+}
+
+h3 {
+  color: #7F4145;
+  text-align: left;
+  font-size: 45px;
+  font-style: italic;
+  text-decoration: underline;
+
+}
+
+
+.profile {
+  background-color:#FA9A85;
+  padding: inherit;
+
+}
+
+
+.skills {
+  background-color:#FA9A85;
+  padding: inherit;
+}
+
+.skill-row {
+  background-color:#CE5B78;
+  padding: inherit;
+}
+
+.contact-me {
+  background-color:#A9754F;
+  padding: inherit;
+  }
+
+.btn {
+  background-color:#E47A2E;
+  padding: 15px;
+  width: 40%;
+  height:auto;
+  border: solid #3F69AA;
+  text-decoration: none;
+  font-size: 1.5rem;
+  border-radius: 25px 50px;
+  font-style: italic;
+  font-weight: bold;
+  position: absolute;
+  margin-right: 50px;
+
+
+}
+
+.footer-link {
+  background-color:#FE840E;
+  padding: inherit;
+  text-decoration: none;
+  font-size: 1.5rem;
+  border-radius: 25px 50px;
+  font-weight: bold;
+  position: absolute;
+  margin-right: 50px;
+}
